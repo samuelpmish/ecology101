@@ -1,4 +1,4 @@
-# Week 1: Animals
+# Week 3: Animals
 
 This week, we care about animals...
 
