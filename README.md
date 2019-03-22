@@ -22,3 +22,18 @@ class SkeletonAgent(BaseAgent):
     def initialize_agent(self):
         self.game_data.read_field_info(self.get_field_info())
 ```
+
+
+Here's the rest of the course content:
+
+[Week 1: Animals](week1.md)
+
+[Week 2: these all actually just link to week 1](week1.md)
+
+[Week 3: these all actually just link to week 1](week1.md)
+
+[Week 4: these all actually just link to week 1](week1.md)
+
+[Week 5: these all actually just link to week 1](week1.md)
+
+[Week 6: these all actually just link to week 1](week1.md)
